@@ -1,4 +1,4 @@
 node_modules
-frontend/frontend-mongoose/node_modules
-frontend/frontend-mongoose/.eng
+expensesfrontend/node_modules
+expensesfrontend/.eng
 .env
