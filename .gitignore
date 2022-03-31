@@ -1,0 +1,4 @@
+node_modules
+frontend/frontend-mongoose/node_modules
+frontend/frontend-mongoose/.eng
+.env
